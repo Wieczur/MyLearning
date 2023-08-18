@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.pdb

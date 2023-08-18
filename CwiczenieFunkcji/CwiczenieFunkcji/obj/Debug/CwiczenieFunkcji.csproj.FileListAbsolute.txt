@@ -1,0 +1,8 @@
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\bin\Debug\CwiczenieFunkcji.exe.config
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\bin\Debug\CwiczenieFunkcji.exe
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\bin\Debug\CwiczenieFunkcji.pdb
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\obj\Debug\CwiczenieFunkcji.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\obj\Debug\CwiczenieFunkcji.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\obj\Debug\CwiczenieFunkcji.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\obj\Debug\CwiczenieFunkcji.exe
+C:\Users\Michau\Desktop\Nauka Programowania\CwiczenieFunkcji\CwiczenieFunkcji\obj\Debug\CwiczenieFunkcji.pdb

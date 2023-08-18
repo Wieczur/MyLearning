@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\bin\Debug\PrzydatneSlowaKluczowe.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\bin\Debug\PrzydatneSlowaKluczowe.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\bin\Debug\PrzydatneSlowaKluczowe.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\obj\Debug\PrzydatneSlowaKluczowe.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\obj\Debug\PrzydatneSlowaKluczowe.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\obj\Debug\PrzydatneSlowaKluczowe.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzydatneSlowaKluczowe\PrzydatneSlowaKluczowe\obj\Debug\PrzydatneSlowaKluczowe.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\obj\Debug\PrzeciazanieFunkcji.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\obj\Debug\PrzeciazanieFunkcji.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\bin\Debug\PrzeciazanieFunkcji.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\bin\Debug\PrzeciazanieFunkcji.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\bin\Debug\PrzeciazanieFunkcji.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\obj\Debug\PrzeciazanieFunkcji.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\PrzeciazanieFunkcji\PrzeciazanieFunkcji\obj\Debug\PrzeciazanieFunkcji.pdb

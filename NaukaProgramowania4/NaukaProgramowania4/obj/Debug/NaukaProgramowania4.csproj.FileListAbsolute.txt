@@ -1,0 +1,8 @@
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\bin\Debug\NaukaProgramowania4.exe.config
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\bin\Debug\NaukaProgramowania4.exe
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\bin\Debug\NaukaProgramowania4.pdb
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\obj\Debug\NaukaProgramowania4.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\obj\Debug\NaukaProgramowania4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\obj\Debug\NaukaProgramowania4.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\obj\Debug\NaukaProgramowania4.exe
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania4\NaukaProgramowania4\obj\Debug\NaukaProgramowania4.pdb

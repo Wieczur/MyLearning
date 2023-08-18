@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\obj\Debug\Rekurencja.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\obj\Debug\Rekurencja.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\bin\Debug\Rekurencja.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\bin\Debug\Rekurencja.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\bin\Debug\Rekurencja.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\obj\Debug\Rekurencja.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Rekurencja\Rekurencja\obj\Debug\Rekurencja.pdb

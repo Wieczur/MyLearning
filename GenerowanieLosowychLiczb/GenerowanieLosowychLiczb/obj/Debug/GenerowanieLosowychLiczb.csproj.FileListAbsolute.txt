@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\bin\Debug\GenerowanieLosowychLiczb.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\bin\Debug\GenerowanieLosowychLiczb.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\bin\Debug\GenerowanieLosowychLiczb.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\obj\Debug\GenerowanieLosowychLiczb.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\obj\Debug\GenerowanieLosowychLiczb.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\obj\Debug\GenerowanieLosowychLiczb.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\GenerowanieLosowychLiczb\GenerowanieLosowychLiczb\obj\Debug\GenerowanieLosowychLiczb.pdb

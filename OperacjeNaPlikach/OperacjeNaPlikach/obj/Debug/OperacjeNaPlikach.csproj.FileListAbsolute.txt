@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\OperacjeNaPlikach.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\OperacjeNaPlikach.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\OperacjeNaPlikach.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\OperacjeNaPlikach.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\OperacjeNaPlikach.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\OperacjeNaPlikach.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\OperacjeNaPlikach.pdb

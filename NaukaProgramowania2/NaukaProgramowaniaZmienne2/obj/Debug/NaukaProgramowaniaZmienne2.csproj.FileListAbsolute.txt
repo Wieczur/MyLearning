@@ -1,0 +1,8 @@
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\bin\Debug\NaukaProgramowaniaZmienne2.exe.config
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\bin\Debug\NaukaProgramowaniaZmienne2.exe
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\bin\Debug\NaukaProgramowaniaZmienne2.pdb
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\obj\Debug\NaukaProgramowaniaZmienne2.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\obj\Debug\NaukaProgramowaniaZmienne2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\obj\Debug\NaukaProgramowaniaZmienne2.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\obj\Debug\NaukaProgramowaniaZmienne2.exe
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowaniaZmienne2\NaukaProgramowaniaZmienne2\obj\Debug\NaukaProgramowaniaZmienne2.pdb

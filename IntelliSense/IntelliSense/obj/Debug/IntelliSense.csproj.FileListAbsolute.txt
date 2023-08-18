@@ -1,0 +1,8 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\bin\Debug\IntelliSense.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\bin\Debug\IntelliSense.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\bin\Debug\IntelliSense.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\obj\Debug\IntelliSense.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\obj\Debug\IntelliSense.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\obj\Debug\IntelliSense.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\obj\Debug\IntelliSense.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\IntelliSense\IntelliSense\obj\Debug\IntelliSense.pdb

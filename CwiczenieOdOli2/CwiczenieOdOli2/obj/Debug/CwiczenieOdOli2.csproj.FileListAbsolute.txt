@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\bin\Debug\CwiczenieOdOli2.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\bin\Debug\CwiczenieOdOli2.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\bin\Debug\CwiczenieOdOli2.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\obj\Debug\CwiczenieOdOli2.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\obj\Debug\CwiczenieOdOli2.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\obj\Debug\CwiczenieOdOli2.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\CwiczenieOdOli2\CwiczenieOdOli2\obj\Debug\CwiczenieOdOli2.pdb

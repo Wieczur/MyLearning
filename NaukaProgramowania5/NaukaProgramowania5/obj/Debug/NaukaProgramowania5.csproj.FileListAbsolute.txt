@@ -1,0 +1,8 @@
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\bin\Debug\NaukaProgramowania5.exe.config
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\bin\Debug\NaukaProgramowania5.exe
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\bin\Debug\NaukaProgramowania5.pdb
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\obj\Debug\NaukaProgramowania5.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\obj\Debug\NaukaProgramowania5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\obj\Debug\NaukaProgramowania5.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\obj\Debug\NaukaProgramowania5.exe
+C:\Users\Michau\Desktop\Nauka Programowania\NaukaProgramowania5\NaukaProgramowania5\obj\Debug\NaukaProgramowania5.pdb

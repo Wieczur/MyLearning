@@ -1,0 +1,15 @@
+1. Wczytanie 10 zmiennych do konsoli
+
+
+2. Policzenie średniej z tych liczb i wyplucie tej wartosci na konsole
+
+
+3. W momencie wczytywanie liczby z konsoli dodaj warunek żeby dana liczba była wieksza od 0. 
+	Jeżeli bedzie wieksza oid 0 dodaj ja do listgy.
+
+   Jeżeli będzie równa bądz mniejsza niech program jeszcze raz poprosi program o podanie liczby.
+
+
+
+do kiedy mam wpisywac wartosci
+do momentu kiedy bede wpisywac prawidlowe wartosci (wartosci wieksze od 0) 
