@@ -41,3 +41,13 @@ namespace ZmienneStałeOrazPodstawoweTypyDanych
         }
     }
 }
+
+
+/* 
+ * git status
+ * git add
+ * git add . 
+ * git commit -m "Komentarz"
+ * git push origin master
+ * git checkout -b "Nazwa Branch"
+ */
