@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\bin\Debug\MarekPiwo.exe.config
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\bin\Debug\MarekPiwo.exe
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\bin\Debug\MarekPiwo.pdb
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\obj\Debug\MarekPiwo.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\obj\Debug\MarekPiwo.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\obj\Debug\MarekPiwo.exe
+C:\Users\Michau\Desktop\Nauka Programowania\MarekPiwo\MarekPiwo\obj\Debug\MarekPiwo.pdb
