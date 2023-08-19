@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\bin\Debug\OperatoryArytmetyczneILogiczne.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\bin\Debug\OperatoryArytmetyczneILogiczne.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\bin\Debug\OperatoryArytmetyczneILogiczne.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\obj\Debug\OperatoryArytmetyczneILogiczne.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\obj\Debug\OperatoryArytmetyczneILogiczne.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\obj\Debug\OperatoryArytmetyczneILogiczne.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperatoryArytmetyczneILogiczne\OperatoryArytmetyczneILogiczne\obj\Debug\OperatoryArytmetyczneILogiczne.pdb
