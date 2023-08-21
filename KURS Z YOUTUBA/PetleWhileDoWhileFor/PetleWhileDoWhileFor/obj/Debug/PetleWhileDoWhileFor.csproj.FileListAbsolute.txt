@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\bin\Debug\PetleWhileDoWhileFor.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\bin\Debug\PetleWhileDoWhileFor.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\bin\Debug\PetleWhileDoWhileFor.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\obj\Debug\PetleWhileDoWhileFor.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\obj\Debug\PetleWhileDoWhileFor.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\obj\Debug\PetleWhileDoWhileFor.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\PetleWhileDoWhileFor\PetleWhileDoWhileFor\obj\Debug\PetleWhileDoWhileFor.pdb

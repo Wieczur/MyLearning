@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\bin\Debug\InstrukcjeWarunkoweIfElseIf.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\bin\Debug\InstrukcjeWarunkoweIfElseIf.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\bin\Debug\InstrukcjeWarunkoweIfElseIf.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\obj\Debug\InstrukcjeWarunkoweIfElseIf.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\obj\Debug\InstrukcjeWarunkoweIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\obj\Debug\InstrukcjeWarunkoweIfElseIf.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeWarunkoweIfElseIf\InstrukcjeWarunkoweIfElseIf\obj\Debug\InstrukcjeWarunkoweIfElseIf.pdb
