@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\bin\Debug\InstrukcjeSkoku.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\bin\Debug\InstrukcjeSkoku.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\bin\Debug\InstrukcjeSkoku.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\obj\Debug\InstrukcjeSkoku.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\obj\Debug\InstrukcjeSkoku.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\obj\Debug\InstrukcjeSkoku.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstrukcjeSkoku\InstrukcjeSkoku\obj\Debug\InstrukcjeSkoku.pdb
