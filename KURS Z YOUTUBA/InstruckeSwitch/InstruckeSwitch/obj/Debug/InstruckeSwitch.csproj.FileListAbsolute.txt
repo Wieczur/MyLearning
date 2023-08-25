@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\bin\Debug\InstruckeSwitch.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\bin\Debug\InstruckeSwitch.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\bin\Debug\InstruckeSwitch.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\obj\Debug\InstruckeSwitch.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\obj\Debug\InstruckeSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\obj\Debug\InstruckeSwitch.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\InstruckeSwitch\InstruckeSwitch\obj\Debug\InstruckeSwitch.pdb
