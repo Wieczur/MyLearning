@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\bin\Debug\TabliceCz2.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\bin\Debug\TabliceCz2.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\bin\Debug\TabliceCz2.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\obj\Debug\TabliceCz2.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\obj\Debug\TabliceCz2.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\obj\Debug\TabliceCz2.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\TabliceCz2\TabliceCz2\obj\Debug\TabliceCz2.pdb
