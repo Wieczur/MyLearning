@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\bin\Debug\FunkcjeCz1.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\bin\Debug\FunkcjeCz1.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\bin\Debug\FunkcjeCz1.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\obj\Debug\FunkcjeCz1.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\obj\Debug\FunkcjeCz1.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\obj\Debug\FunkcjeCz1.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\FunkcjeCz1\FunkcjeCz1\obj\Debug\FunkcjeCz1.pdb
