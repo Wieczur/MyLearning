@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\bin\Debug\KlasyIObiekty.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\bin\Debug\KlasyIObiekty.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\bin\Debug\KlasyIObiekty.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\obj\Debug\KlasyIObiekty.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\obj\Debug\KlasyIObiekty.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\obj\Debug\KlasyIObiekty.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiekty\KlasyIObiekty\obj\Debug\KlasyIObiekty.pdb
