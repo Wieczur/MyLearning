@@ -10,8 +10,9 @@ namespace KlasyIObiektyKonstruktor
     {
         static void Main(string[] args)
         {
-            Czlowiek adi = new Czlowiek();
-            Console.WriteLine(adi.imie);
+            Czlowiek adi = new Czlowiek("Marek", "Kowalski");
+            adi.PrzedstawSie();
+            Console.WriteLine(adi.nazwisko);         
             adi.imie = "Bartek";
             adi.PrzedstawSie();
 

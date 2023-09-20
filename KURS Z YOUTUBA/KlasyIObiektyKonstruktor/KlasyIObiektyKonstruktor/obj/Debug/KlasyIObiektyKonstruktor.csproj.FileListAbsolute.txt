@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\bin\Debug\KlasyIObiektyKonstruktor.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\bin\Debug\KlasyIObiektyKonstruktor.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\bin\Debug\KlasyIObiektyKonstruktor.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\obj\Debug\KlasyIObiektyKonstruktor.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\obj\Debug\KlasyIObiektyKonstruktor.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\obj\Debug\KlasyIObiektyKonstruktor.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KlasyIObiektyKonstruktor\KlasyIObiektyKonstruktor\obj\Debug\KlasyIObiektyKonstruktor.pdb
