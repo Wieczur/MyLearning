@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KlasyIObiekty
+namespace KlasyIObiektyKonstruktor
 {
     internal class Program
     {
@@ -12,20 +12,10 @@ namespace KlasyIObiekty
         {
             Czlowiek adi = new Czlowiek();
             Console.WriteLine(adi.imie);
-            adi.imie = "Bartek";           
+            adi.imie = "Bartek";
             adi.PrzedstawSie();
 
             Console.ReadKey();
         }
     }
-    //class Czlowiek
-    //{
-    //    public string imie = "Adrian";
-    //    public string nazwisko = "Kowalski";
-
-    //    public void PrzedstawSie()
-    //    {
-    //        Console.WriteLine("Mam na imie " + imie);
-    //    }
-    //}
 }
