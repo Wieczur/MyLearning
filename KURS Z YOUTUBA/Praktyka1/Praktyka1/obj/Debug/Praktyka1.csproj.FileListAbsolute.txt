@@ -1,7 +1,0 @@
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\bin\Debug\Praktyka1.exe.config
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\bin\Debug\Praktyka1.exe
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\bin\Debug\Praktyka1.pdb
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\obj\Debug\Praktyka1.csproj.AssemblyReference.cache
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\obj\Debug\Praktyka1.csproj.CoreCompileInputs.cache
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\obj\Debug\Praktyka1.exe
-C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Praktyka1\Praktyka1\obj\Debug\Praktyka1.pdb
