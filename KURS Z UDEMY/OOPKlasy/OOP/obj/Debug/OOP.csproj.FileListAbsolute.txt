@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\OOP\OOP\obj\Debug\OOP.pdb

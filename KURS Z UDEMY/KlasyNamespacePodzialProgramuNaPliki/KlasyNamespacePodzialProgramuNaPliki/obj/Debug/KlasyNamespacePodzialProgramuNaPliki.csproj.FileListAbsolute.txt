@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\bin\Debug\KlasyNamespacePodzialProgramuNaPliki.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\bin\Debug\KlasyNamespacePodzialProgramuNaPliki.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\bin\Debug\KlasyNamespacePodzialProgramuNaPliki.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\obj\Debug\KlasyNamespacePodzialProgramuNaPliki.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\obj\Debug\KlasyNamespacePodzialProgramuNaPliki.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\obj\Debug\KlasyNamespacePodzialProgramuNaPliki.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyNamespacePodzialProgramuNaPliki\KlasyNamespacePodzialProgramuNaPliki\obj\Debug\KlasyNamespacePodzialProgramuNaPliki.pdb
