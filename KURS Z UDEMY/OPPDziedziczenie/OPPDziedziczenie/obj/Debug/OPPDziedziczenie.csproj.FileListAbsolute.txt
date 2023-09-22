@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\bin\Debug\OPPDziedziczenie.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\bin\Debug\OPPDziedziczenie.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\bin\Debug\OPPDziedziczenie.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\obj\Debug\OPPDziedziczenie.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\obj\Debug\OPPDziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\obj\Debug\OPPDziedziczenie.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OPPDziedziczenie\OPPDziedziczenie\obj\Debug\OPPDziedziczenie.pdb
