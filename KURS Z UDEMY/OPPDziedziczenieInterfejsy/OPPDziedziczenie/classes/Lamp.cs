@@ -8,8 +8,21 @@ namespace OPPDziedziczenie
 {
     internal class Lamp : Item
     {
+        private int _power;
         
-        public int Power { get; set; }
+        public int Power
+        {
+            get
+            {
+                return _power;
+            }
+            private set
+            {
+                if (value <= 0)
+                Console.WriteLine("Probowano ustawic nieprawdidlowa wartosc mocy lampy");
+                return;
+            } 
+        }
 
         public void LightItself()
         {

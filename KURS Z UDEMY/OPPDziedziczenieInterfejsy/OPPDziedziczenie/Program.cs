@@ -36,3 +36,5 @@ namespace OPPDziedziczenie
 // dziedziczenie - rozszerzanie obecnej klasy o nowe rzeczy
 // Interfejsy -  
 // klasa moze dziedziczyc tylko po jednej klasie ale nieskonczenie wiele po interfejsach
+// get - sluzy do otrzymywania wartosci
+// set - sluzy do przypisywania wartosci

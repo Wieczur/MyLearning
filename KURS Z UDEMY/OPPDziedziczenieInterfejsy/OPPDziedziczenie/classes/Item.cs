@@ -8,6 +8,6 @@ namespace OPPDziedziczenie
 {
     abstract class Item
     {    
-         public int Height { get; set; }
+         public int Height { get; protected set; }
     }
 }
