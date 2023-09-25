@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\bin\Debug\OperacjeNaStringachParmasIObject.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\bin\Debug\OperacjeNaStringachParmasIObject.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\bin\Debug\OperacjeNaStringachParmasIObject.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\obj\Debug\OperacjeNaStringachParmasIObject.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\obj\Debug\OperacjeNaStringachParmasIObject.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\obj\Debug\OperacjeNaStringachParmasIObject.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\OperacjeNaStringachParmasIObject\OperacjeNaStringachParmasIObject\obj\Debug\OperacjeNaStringachParmasIObject.pdb

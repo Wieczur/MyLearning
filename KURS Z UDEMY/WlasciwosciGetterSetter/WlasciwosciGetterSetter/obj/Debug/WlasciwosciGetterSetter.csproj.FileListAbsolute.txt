@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\bin\Debug\WlasciwosciGetterSetter.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\bin\Debug\WlasciwosciGetterSetter.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\bin\Debug\WlasciwosciGetterSetter.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\obj\Debug\WlasciwosciGetterSetter.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\obj\Debug\WlasciwosciGetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\obj\Debug\WlasciwosciGetterSetter.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\WlasciwosciGetterSetter\WlasciwosciGetterSetter\obj\Debug\WlasciwosciGetterSetter.pdb
