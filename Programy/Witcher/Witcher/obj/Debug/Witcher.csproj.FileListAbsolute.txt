@@ -5,3 +5,10 @@ C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Witcher\Witcher\obj\Debug\Witcher.cs
 C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Witcher\Witcher\obj\Debug\Witcher.csproj.CoreCompileInputs.cache
 C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Witcher\Witcher\obj\Debug\Witcher.exe
 C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Witcher\Witcher\obj\Debug\Witcher.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\bin\Debug\Witcher.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\bin\Debug\Witcher.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\bin\Debug\Witcher.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\obj\Debug\Witcher.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\obj\Debug\Witcher.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\obj\Debug\Witcher.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\Witcher\Witcher\obj\Debug\Witcher.pdb

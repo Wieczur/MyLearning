@@ -11,25 +11,27 @@ namespace Witcher
     internal class Program
     {
         // maksymalna ilosc zycia wiedzmina
-        const int MaxWitcherHealth = 100;
+        
         // Potion zycia
         const int healthPotion = 40;
+
+        public static int MaxWitcherHealth { get; private set; }
 
         static void Main(string[] args)
         {
             ProgramStart();
         }
+
         static void ProgramStart()
         {
-            
-            // Hp Wiedzmina
-            int healthPointWitcher = MaxWitcherHealth;
-            // Obrazenia Wiedzmina
-            int damageWitcher = 30;
+            var Geralt = new Witcher();
+
+            Console.WriteLine(Geralt.healthPoint);
+            Geralt.damageWitcher = 30;
             // Obrazenia Krytyczne Wiedzmina
-            int cricitalStrikeDamageWticher = damageWitcher * 2;
+            Geralt.cricitalStrikeDamageWticher = Geralt.damageWitcher * 2;
             // Szansa na obrazenia krytyczne
-            int cricitalChanceWitcher = 10;
+            Geralt.cricitalChanceWitcher = 10;
             // Zycie Utopca
             int healthPointDrown = 60;
             // Obrazenia Utopca
@@ -40,28 +42,38 @@ namespace Witcher
             int cricitalChanceDrown = 5;
             // Liczba punktów życia po walce
             int healthPointDrownAfterCombat;
-            int healthPointWitcherAfterCombat;
+            Console.WriteLine(Geralt.healthPointWitcherAfterCombat);
             // Runda
             int roundNumber = 1;
             
-            PrintInitialStats(healthPointWitcher, damageWitcher, cricitalChanceWitcher, healthPointDrown, damageDrown, cricitalChanceDrown);
+            PrintInitialStats(Geralt.healthPoint, Geralt.damageWitcher, Geralt.cricitalChanceWitcher, healthPointDrown, damageDrown, cricitalChanceDrown);
 
-            while (healthPointWitcher > 0)
+            while (Geralt.healthPoint > 0)
             {
                 PrintStatsBeforeRound(roundNumber);
                 
-                WitcherAction(healthPointWitcher, damageWitcher, healthPotion, cricitalStrikeDamageWticher, healthPointDrown, out healthPointDrownAfterCombat, out healthPointWitcherAfterCombat);
+                WitcherAction(Geralt.healthPoint, Geralt.damageWitcher, healthPotion, Geralt.cricitalStrikeDamageWticher, healthPointDrown, out healthPointDrownAfterCombat, out healthPointWitcherAfterCombat);
                 healthPointDrown = healthPointDrownAfterCombat;
-                healthPointWitcher = healthPointWitcherAfterCombat;
+                Geralt.healthPoint = Geralt.healthPointWitcherAfterCombat;
 
-                DrownAction(healthPointDrown, damageDrown, cricitalStrikeDamageDrown, healthPointWitcher, out healthPointDrownAfterCombat, out healthPointWitcherAfterCombat);
+                DrownAction(healthPointDrown, damageDrown, cricitalStrikeDamageDrown, Geralt.healthPoint, out healthPointDrownAfterCombat, out healthPointWitcherAfterCombat);
                 healthPointDrown = healthPointDrownAfterCombat;
-                healthPointWitcher = healthPointWitcherAfterCombat;
+                Geralt.healthPoint = Geralt.healthPointWitcherAfterCombat;
 
-                PrintStatsAfterRound(roundNumber, healthPointWitcher, healthPointDrown);
+                PrintStatsAfterRound(roundNumber, Geralt.healthPoint, healthPointDrown);
 
                 roundNumber++;
             }
+        }
+
+        private static void DrownAction(int healthPointDrown, int damageDrown, int cricitalStrikeDamageDrown, int healthPoint, out int healthPointDrownAfterCombat, out object healthPointWitcherAfterCombat)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static void WitcherAction(int healthPoint, int damageWitcher, int healthPotion, int cricitalStrikeDamageWticher, int healthPointDrown, out int healthPointDrownAfterCombat, out object healthPointWitcherAfterCombat)
+        {
+            throw new NotImplementedException();
         }
 
         static void WitcherAction(

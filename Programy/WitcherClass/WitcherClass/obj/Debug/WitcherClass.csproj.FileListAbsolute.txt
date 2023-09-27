@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\bin\Debug\WitcherClass.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\bin\Debug\WitcherClass.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\bin\Debug\WitcherClass.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\obj\Debug\WitcherClass.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\obj\Debug\WitcherClass.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\obj\Debug\WitcherClass.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\Programy\WitcherClass\WitcherClass\obj\Debug\WitcherClass.pdb

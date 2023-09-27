@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\bin\Debug\KlasyGeneryczne.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\bin\Debug\KlasyGeneryczne.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\bin\Debug\KlasyGeneryczne.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\obj\Debug\KlasyGeneryczne.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\obj\Debug\KlasyGeneryczne.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\obj\Debug\KlasyGeneryczne.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z UDEMY\KlasyGeneryczne\KlasyGeneryczne\obj\Debug\KlasyGeneryczne.pdb
