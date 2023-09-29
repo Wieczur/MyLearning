@@ -10,8 +10,9 @@ namespace Witcher
 
     internal class Witcher
     {
+        Drown drown1 = new Drown();
 
-        public const int MaxWitcherHealth = 100;
+        public  int MaxWitcherHealth = 100;
         public int healthPoint {  get; set; }
         public int damageWitcher {  get; set; }
         public int cricitalStrikeDamageWticher { get; set; }
@@ -33,22 +34,20 @@ namespace Witcher
             Console.WriteLine(healthPointWitcherAfterCombat);
 
         }
-        static void WitcherAction(
+        public void WitcherAction(
             int healthPointWitcher,
             int damageWitcher,
             int healPotion,
             int cricitalStrikeDamageWticher,
-            int healthPointDrown,
-            out int healthPointDrownAfterCombat,
-            out int healthPointWitcherAfterCombat)
+            int healthPointDrown)
         {
-            healthPointDrownAfterCombat = healthPointDrown;
+            drown1.healthPointDrownAfterCombat = healthPointDrown;
             healthPointWitcherAfterCombat = healthPointWitcher;
 
             if (healthPointWitcher >= 30)
             {
                 damageWitcher = CountCricitalStrikeWitcher(damageWitcher, cricitalStrikeDamageWticher);
-                healthPointDrownAfterCombat = DealDamageAsAWitcher(damageWitcher, healthPointDrownAfterCombat, healthPointDrown);
+                drown1.healthPointDrownAfterCombat = DealDamageAsAWitcher(damageWitcher, drown1.healthPointDrownAfterCombat, healthPointDrown);
             }
             else if (healthPointWitcher < 30)
             {

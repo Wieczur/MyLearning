@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AfterStats.cs" />
-    <Compile Include="BeforeStats.cs" />
     <Compile Include="Drown.cs" />
-    <Compile Include="InitialStats.cs" />
+    <Compile Include="PrintStats.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Witcher.cs" />

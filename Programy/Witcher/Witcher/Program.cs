@@ -15,18 +15,17 @@ namespace Witcher
         // Potion zycia
         const int healthPotion = 40;
 
-        public static int MaxWitcherHealth { get; private set; }
-
         static void Main(string[] args)
         {
             ProgramStart();
+
         }
 
         static void ProgramStart()
         {
-            var geralt = new Witcher();
-            var drown1 = new Drown();
-            
+            Witcher geralt = new Witcher();
+            Drown drown1 = new Drown();
+            PrintStats stats = new PrintStats();
 
             Console.WriteLine(geralt.healthPoint);
             geralt.damageWitcher = 30;
@@ -47,29 +46,30 @@ namespace Witcher
             Console.WriteLine(geralt.healthPointWitcherAfterCombat);
 
 
+
             // Runda
             int roundNumber = 1;
 
 
-            PrintInitialStats(geralt.healthPoint, geralt.damageWitcher, geralt.cricitalChanceWitcher, drown1.healthPointDrown, drown1.damageDrown, drown1.cricitalChanceDrown);
+            stats.PrintInitialStats(geralt.healthPoint, geralt.damageWitcher, geralt.cricitalChanceWitcher, drown1.healthPointDrown, drown1.damageDrown, drown1.cricitalChanceDrown);
 
             while (geralt.healthPoint > 0)
             {
-                PrintStatsBeforeRound(roundNumber);
+                stats.PrintStatsBeforeRound(roundNumber);
                 
-                WitcherAction(geralt.healthPoint, geralt.damageWitcher, healthPotion, geralt.cricitalStrikeDamageWticher, drown1.healthPointDrown, out healthPointDrownAfterCombat, out healthPointWitcherAfterCombat);
+                geralt.WitcherAction(geralt.healthPoint, geralt.damageWitcher, healthPotion, geralt.cricitalStrikeDamageWticher, drown1.healthPointDrown);
                 drown1.healthPointDrown = drown1.healthPointDrownAfterCombat;
                 geralt.healthPoint = geralt.healthPointWitcherAfterCombat;
 
-                DrownAction(drown1.healthPointDrown, drown1.damageDrown, drown1.cricitalStrikeDamageDrown, geralt.healthPoint, out healthPointDrownAfterCombat, out healthPointWitcherAfterCombat);
+                drown1.DrownAction(drown1.healthPointDrown, drown1.damageDrown, drown1.cricitalStrikeDamageDrown, geralt.healthPoint);
                 drown1.healthPointDrown = drown1.healthPointDrownAfterCombat;
                 geralt.healthPoint = geralt.healthPointWitcherAfterCombat;
 
-                PrintStatsAfterRound(roundNumber, geralt.healthPoint, drown1.healthPointDrown);
+                stats.PrintStatsAfterRound(roundNumber, geralt.healthPoint, drown1.healthPointDrown);
 
                 roundNumber++;
             }
-        }     
+        }        
     }
 }
 

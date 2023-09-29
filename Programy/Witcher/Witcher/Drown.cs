@@ -8,12 +8,15 @@ namespace Witcher
 {
     internal class Drown
     {
-       
+        Witcher geralt = new Witcher();
+
         public int healthPointDrown { get; set; }
         public int damageDrown { get; set; }
         public int cricitalStrikeDamageDrown { get; set; }
         public int cricitalChanceDrown { get; set; }
         public int healthPointDrownAfterCombat { get; set; }
+
+        
 
         public void DrownStats()
         {
@@ -24,85 +27,85 @@ namespace Witcher
             Console.WriteLine(healthPointDrownAfterCombat);
  
         }
-        static void DrownAction(
+        public void DrownAction(
             int healthPointDrown,
             int damageDrown,
             int cricitalStrikeDamageDrown,
-            int healthPointWitcher,
-            out int healthPointDrownAfterCombat,
-            out int healthPointWitcherAfterCombat)
+            int healthPointWitcher)
         {
             int swallowHealPercentagePoints = 20;
 
             healthPointDrownAfterCombat = healthPointDrown;
-            healthPointWitcherAfterCombat = healthPointWitcher;
+            geralt.healthPointWitcherAfterCombat = healthPointWitcher;
 
             if (healthPointDrown > 0)
             {
-                damageDrown = CountCricitalStrikeDrown(damageDrown, cricitalStrikeDamageDrown, healthPointWitcherAfterCombat, healthPointWitcher);
-                healthPointWitcherAfterCombat = DealDamageAsADrown(healthPointWitcherAfterCombat, damageDrown, healthPointWitcher);
+                damageDrown = CountCricitalStrikeDrown(damageDrown, cricitalStrikeDamageDrown, geralt.healthPointWitcherAfterCombat);
+                geralt.healthPointWitcherAfterCombat = DealDamageAsADrown(geralt.healthPointWitcherAfterCombat, damageDrown);
             }
             else
             {
                 DrownDead();
 
-                healthPointWitcherAfterCombat = SwallowDropped(swallowHealPercentagePoints, healthPointWitcherAfterCombat);
+                geralt.healthPointWitcherAfterCombat = SwallowDropped(swallowHealPercentagePoints, geralt.healthPointWitcherAfterCombat);
 
                 healthPointDrownAfterCombat = 60;
             }
-             void WitcherUsingSwallow(int healthPointWitcherAfterCombat)
-            {
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Witcher HP after using Swallow = " + healthPointWitcherAfterCombat);
-                Console.ResetColor();
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("Next Drown Comming");
-                Console.ResetColor();
-            }
-
-            int SwallowDropped(int swallowHealPercentagePoints, int healthPointWitcherAfterCombat)
-            {
-                int swallowHealPoints;
-
-                Console.WriteLine("Swallow Dropped");
-                Console.WriteLine("Witcher use Swallow");
-                Console.ResetColor();
-                swallowHealPoints = swallowHealPercentagePoints * (MaxWitcherHealth - healthPointWitcherAfterCombat) / 100;
-                healthPointWitcherAfterCombat = swallowHealPoints + healthPointWitcherAfterCombat;
-
-                WitcherUsingSwallow(healthPointWitcherAfterCombat);
-                return healthPointWitcherAfterCombat;
-            }
-
-            void DrownDead()
-            {
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("DrownDead");
-                Console.ForegroundColor = ConsoleColor.Magenta;
-            }
-
-            int CountCricitalStrikeDrown( int damageDrown, int cricitalStrikeDamageDrown, int healthPointWitcherAfterCombat, int healthPointWitcher)
-            {
-                Random rnd = new Random();
-                int randomNumber = (rnd.Next(1, 21));
-                int sampleNumber = 5;
-
-                if (randomNumber == sampleNumber)
-                {
-                    damageDrown = cricitalStrikeDamageDrown;
-                    Console.WriteLine("CricitalStrike: " + damageDrown);
-                }
-                return damageDrown;
-            }
-            int DealDamageAsADrown(int healthPointWitcherAfterCombat, int damageDrown, int healthPointWitcher)
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("DrownAttack: " + damageDrown);
-                healthPointWitcherAfterCombat = healthPointWitcher - damageDrown;
-                Console.ResetColor();
-
-                return healthPointWitcherAfterCombat;
-            }
         }
+        void WitcherUsingSwallow(int healthPointWitcherAfterCombat)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Witcher HP after using Swallow = " + healthPointWitcherAfterCombat);
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Next Drown Comming");
+            Console.ResetColor();
+        }
+
+        int SwallowDropped(int swallowHealPercentagePoints, int healthPointWitcherAfterCombat)
+        {
+            int swallowHealPoints;
+
+            Console.WriteLine("Swallow Dropped");
+            Console.WriteLine("Witcher use Swallow");
+            Console.ResetColor();
+            swallowHealPoints = swallowHealPercentagePoints * (geralt.MaxWitcherHealth - healthPointWitcherAfterCombat) / 100;
+            healthPointWitcherAfterCombat = swallowHealPoints + healthPointWitcherAfterCombat;
+
+            WitcherUsingSwallow(healthPointWitcherAfterCombat);
+            return healthPointWitcherAfterCombat;
+        }
+
+        void DrownDead()
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("DrownDead");
+            Console.ForegroundColor = ConsoleColor.Magenta;
+        }
+
+        int CountCricitalStrikeDrown( int damageDrown, int cricitalStrikeDamageDrown, int healthPointWitcherAfterCombat)
+        {
+            Random rnd = new Random();
+            int randomNumber = (rnd.Next(1, 21));
+            int sampleNumber = 5;
+
+            if (randomNumber == sampleNumber)
+            {
+                damageDrown = cricitalStrikeDamageDrown;
+                Console.WriteLine("CricitalStrike: " + damageDrown);
+            }
+            return damageDrown;
+        }
+
+        int DealDamageAsADrown(int healthPointWitcherAfterCombat, int damageDrown)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("DrownAttack: " + damageDrown);
+            healthPointWitcherAfterCombat = geralt.healthPoint - damageDrown;
+            Console.ResetColor();
+
+            return healthPointWitcherAfterCombat;
+        }
+        
     }
 }
