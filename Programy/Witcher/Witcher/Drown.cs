@@ -6,17 +6,13 @@ using System.Threading.Tasks;
 
 namespace Witcher
 {
-    internal class Drown
+    internal class Drown : Utils
     {
-        Witcher geralt = new Witcher();
 
         public int healthPointDrown { get; set; }
         public int damageDrown { get; set; }
         public int cricitalStrikeDamageDrown { get; set; }
         public int cricitalChanceDrown { get; set; }
-        public int healthPointDrownAfterCombat { get; set; }
-
-        
 
         public void DrownStats()
         {
@@ -25,9 +21,9 @@ namespace Witcher
             Console.WriteLine(cricitalStrikeDamageDrown);
             Console.WriteLine(cricitalChanceDrown);
             Console.WriteLine(healthPointDrownAfterCombat);
- 
+
         }
-        public void DrownAction(
+        public int DrownAction(
             int healthPointDrown,
             int damageDrown,
             int cricitalStrikeDamageDrown,
@@ -36,43 +32,21 @@ namespace Witcher
             int swallowHealPercentagePoints = 20;
 
             healthPointDrownAfterCombat = healthPointDrown;
-            geralt.healthPointWitcherAfterCombat = healthPointWitcher;
+            healthPointWitcherAfterCombat = healthPointWitcher;
 
             if (healthPointDrown > 0)
             {
-                damageDrown = CountCricitalStrikeDrown(damageDrown, cricitalStrikeDamageDrown, geralt.healthPointWitcherAfterCombat);
-                geralt.healthPointWitcherAfterCombat = DealDamageAsADrown(geralt.healthPointWitcherAfterCombat, damageDrown);
+                damageDrown = CountCricitalStrikeDrown(damageDrown, cricitalStrikeDamageDrown, healthPointWitcherAfterCombat);
+                healthPointWitcherAfterCombat = DealDamageAsADrown(healthPointWitcherAfterCombat, damageDrown);
             }
             else
             {
                 DrownDead();
 
-                geralt.healthPointWitcherAfterCombat = SwallowDropped(swallowHealPercentagePoints, geralt.healthPointWitcherAfterCombat);
+                healthPointWitcherAfterCombat = SwallowDropped(swallowHealPercentagePoints, healthPointWitcherAfterCombat);
 
                 healthPointDrownAfterCombat = 60;
             }
-        }
-        void WitcherUsingSwallow(int healthPointWitcherAfterCombat)
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Witcher HP after using Swallow = " + healthPointWitcherAfterCombat);
-            Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("Next Drown Comming");
-            Console.ResetColor();
-        }
-
-        int SwallowDropped(int swallowHealPercentagePoints, int healthPointWitcherAfterCombat)
-        {
-            int swallowHealPoints;
-
-            Console.WriteLine("Swallow Dropped");
-            Console.WriteLine("Witcher use Swallow");
-            Console.ResetColor();
-            swallowHealPoints = swallowHealPercentagePoints * (geralt.MaxWitcherHealth - healthPointWitcherAfterCombat) / 100;
-            healthPointWitcherAfterCombat = swallowHealPoints + healthPointWitcherAfterCombat;
-
-            WitcherUsingSwallow(healthPointWitcherAfterCombat);
             return healthPointWitcherAfterCombat;
         }
 
@@ -83,7 +57,7 @@ namespace Witcher
             Console.ForegroundColor = ConsoleColor.Magenta;
         }
 
-        int CountCricitalStrikeDrown( int damageDrown, int cricitalStrikeDamageDrown, int healthPointWitcherAfterCombat)
+        int CountCricitalStrikeDrown(int damageDrown, int cricitalStrikeDamageDrown, int healthPointWitcherAfterCombat)
         {
             Random rnd = new Random();
             int randomNumber = (rnd.Next(1, 21));
@@ -101,11 +75,11 @@ namespace Witcher
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("DrownAttack: " + damageDrown);
-            healthPointWitcherAfterCombat = geralt.healthPoint - damageDrown;
+            healthPointWitcherAfterCombat = healthPoint - damageDrown;
             Console.ResetColor();
 
             return healthPointWitcherAfterCombat;
         }
-        
+
     }
 }
