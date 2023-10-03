@@ -11,8 +11,13 @@ namespace Witcher
         public int healthPointWitcherAfterCombat;
         public int MaxWitcherHealth = 100;
         public int healthPointDrownAfterCombat;
-        public int healthPoint;
 
+        /// <summary>
+        /// metoda uzywania jaskolki przeez wiedzmina
+        /// </summary>
+        /// <param name="healthPointWitcherAfterCombat">
+        /// zycie wiedzmina po walce
+        /// </param>
         void WitcherUsingSwallow(int healthPointWitcherAfterCombat)
         {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -22,7 +27,18 @@ namespace Witcher
             Console.WriteLine("Next Drown Comming");
             Console.ResetColor();
         }
-
+        /// <summary>
+        /// metoda wypadania jaskolki
+        /// </summary>
+        /// <param name="swallowHealPercentagePoints">
+        /// jaskolka leczy procentowa ilosc zycia
+        /// </param>
+        /// <param name="healthPointWitcherAfterCombat">
+        /// zycie wiedzmina po walce
+        /// </param>
+        /// <returns>
+        /// metoda zwraca zycie wiedzmina po walce
+        /// </returns>
         public int SwallowDropped(int swallowHealPercentagePoints, int healthPointWitcherAfterCombat)
         {
             int swallowHealPoints;

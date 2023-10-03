@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\bin\Debug\OperacjeNaStringach.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\bin\Debug\OperacjeNaStringach.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\bin\Debug\OperacjeNaStringach.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\obj\Debug\OperacjeNaStringach.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\obj\Debug\OperacjeNaStringach.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\obj\Debug\OperacjeNaStringach.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\OperacjeNaStringach\OperacjeNaStringach\obj\Debug\OperacjeNaStringach.pdb

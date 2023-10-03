@@ -14,15 +14,24 @@ namespace Witcher
         public int cricitalStrikeDamageDrown { get; set; }
         public int cricitalChanceDrown { get; set; }
 
-        public void DrownStats()
-        {
-            Console.WriteLine(healthPointDrown);
-            Console.WriteLine(damageDrown);
-            Console.WriteLine(cricitalStrikeDamageDrown);
-            Console.WriteLine(cricitalChanceDrown);
-            Console.WriteLine(healthPointDrownAfterCombat);
-
-        }
+        /// <summary>
+        /// Akcje Utopca
+        /// </summary>
+        /// <param name="healthPointDrown">
+        /// zycie utopca
+        /// </param>
+        /// <param name="damageDrown">
+        /// obraznia utopca
+        /// </param>
+        /// <param name="cricitalStrikeDamageDrown">
+        /// obrazenia krytyczne
+        /// </param>
+        /// <param name="healthPointWitcher">
+        /// zycie wiedzmina
+        /// </param>
+        /// <returns>
+        /// metoda zwraca punkty zycia wiedzmina po walce
+        /// </returns>
         public int DrownAction(
             int healthPointDrown,
             int damageDrown,
@@ -56,7 +65,21 @@ namespace Witcher
             Console.WriteLine("DrownDead");
             Console.ForegroundColor = ConsoleColor.Magenta;
         }
-
+        /// <summary>
+        /// Obliczanie Obrazen krytycznych dla utopca
+        /// </summary>
+        /// <param name="damageDrown">
+        /// obrazenia utopca
+        /// </param>
+        /// <param name="cricitalStrikeDamageDrown">
+        /// obrazenia krytyczne utopca
+        /// </param>
+        /// <param name="healthPointWitcherAfterCombat">
+        /// ilosc zycia wiedzmina po walce
+        /// </param>
+        /// <returns>
+        /// metoda zwraca obraznia utopca
+        /// </returns>
         int CountCricitalStrikeDrown(int damageDrown, int cricitalStrikeDamageDrown, int healthPointWitcherAfterCombat)
         {
             Random rnd = new Random();
@@ -70,12 +93,23 @@ namespace Witcher
             }
             return damageDrown;
         }
-
+        /// <summary>
+        /// metoda zadaje obrazenia wiedzminowi
+        /// </summary>
+        /// <param name="healthPointWitcherAfterCombat">
+        /// zycie wiedzina po walce
+        /// </param>
+        /// <param name="damageDrown">
+        /// obrazenia utopca
+        /// </param>
+        /// <returns>
+        /// metoda zwraca zycie wiedzmina po walce
+        /// </returns>
         int DealDamageAsADrown(int healthPointWitcherAfterCombat, int damageDrown)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("DrownAttack: " + damageDrown);
-            healthPointWitcherAfterCombat = healthPoint - damageDrown;
+            healthPointWitcherAfterCombat = healthPointWitcherAfterCombat - damageDrown;
             Console.ResetColor();
 
             return healthPointWitcherAfterCombat;

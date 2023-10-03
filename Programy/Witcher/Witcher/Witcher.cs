@@ -16,18 +16,30 @@ namespace Witcher
 
         public Witcher()
         {
-            healthPoint = MaxWitcherHealth;
+            healthPointWitcherAfterCombat = MaxWitcherHealth;
         }
 
-        public void WitcherStats()
-        {
-            Console.WriteLine(MaxWitcherHealth);
-            Console.WriteLine(healthPoint);
-            Console.WriteLine(damageWitcher);
-            Console.WriteLine(cricitalStrikeDamageWticher);
-            Console.WriteLine(cricitalChanceWitcher);
-            Console.WriteLine(healthPointWitcherAfterCombat);
-        }
+        /// <summary>
+        /// akcje wiedzmina
+        /// </summary>
+        /// <param name="healthPointWitcher">
+        /// zycie wiedzmina
+        /// </param>
+        /// <param name="damageWitcher">
+        /// obrazenia wiedzmina
+        /// </param>
+        /// <param name="healPotion">
+        /// potka zycia
+        /// </param>
+        /// <param name="cricitalStrikeDamageWticher">
+        /// obrazenia krytyczne wiedzmina
+        /// </param>
+        /// <param name="healthPointDrown">
+        /// zycie utopca
+        /// </param>
+        /// <returns>
+        /// metoda zwraca zycie utopca po rundzie
+        /// </returns>
         public int WitcherAction(
             int healthPointWitcher,
             int damageWitcher,
@@ -62,6 +74,18 @@ namespace Witcher
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// wiedzmin leczy sie za pomoca potki
+        /// </summary>
+        /// <param name="healPotion">
+        /// potka zycia
+        /// </param>
+        /// <param name="healthPointWitcherAfterCombat">
+        /// zycie wiedzmina po walce
+        /// </param>
+        /// <returns>
+        /// metoda zwraca zycie wiedzmina po walce
+        /// </returns>
         static int WitcherHealHimself(int healPotion, int healthPointWitcherAfterCombat)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
@@ -73,6 +97,18 @@ namespace Witcher
             return healthPointWitcherAfterCombat;
         }
 
+        /// <summary>
+        /// metoda liczenia trafienia krytycznego przez wiedzmina
+        /// </summary>
+        /// <param name="damageWitcher">
+        /// obrazenia wiedzmina
+        /// </param>
+        /// <param name="cricitalStrikeDamageWticher">
+        /// obrazenia krytyczne wiedzmina
+        /// </param>
+        /// <returns>
+        /// metoda zwraca obrazenia wiedzmina
+        /// </returns>
         static int CountCricitalStrikeWitcher(int damageWitcher, int cricitalStrikeDamageWticher)
         {
             Random rnd = new Random();
@@ -88,6 +124,21 @@ namespace Witcher
             return damageWitcher;
         }
 
+        /// <summary>
+        /// zadawanie obrazen jako wiedzmin
+        /// </summary>
+        /// <param name="damageWitcher">
+        /// obrazenia wiedzmina
+        /// </param>
+        /// <param name="healthPointDrownAfterCombat">
+        /// punkty zycia utopca po walce
+        /// </param>
+        /// <param name="healthPointDrown">
+        /// punkty zycia utopca
+        /// </param>
+        /// <returns>
+        /// metoda zwraca punkty zycia utopca po walce
+        /// </returns>
         static int DealDamageAsAWitcher(int damageWitcher, int healthPointDrownAfterCombat, int healthPointDrown)
         {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -97,8 +148,5 @@ namespace Witcher
 
             return healthPointDrownAfterCombat;
         }
-
-
     }
-
 }
