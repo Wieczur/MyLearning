@@ -31,6 +31,7 @@ namespace Witcher
         /// </param>
         public void PrintInitialStats(int healthPointWitcher, int damageWitcher, int cricitalChanceWitcher, int healthPointDrown, int damageDrown, int cricitalChanceDrown)
         {
+            Console.WriteLine("InitialStats");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Witcher = " + "healhPoint: " + healthPointWitcher + " , " + "Damage: " + damageWitcher + " , " + "CricitalStrike: " + cricitalChanceWitcher);
             Console.ResetColor();

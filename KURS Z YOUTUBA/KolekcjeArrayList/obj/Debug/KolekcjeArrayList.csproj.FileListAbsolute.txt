@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\bin\Debug\KolekcjeArrayList.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\bin\Debug\KolekcjeArrayList.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\bin\Debug\KolekcjeArrayList.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\obj\Debug\KolekcjeArrayList.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\obj\Debug\KolekcjeArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\obj\Debug\KolekcjeArrayList.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeArrayList\obj\Debug\KolekcjeArrayList.pdb
