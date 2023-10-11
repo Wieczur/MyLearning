@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\bin\Debug\KolekcjeDictionary.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\bin\Debug\KolekcjeDictionary.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\bin\Debug\KolekcjeDictionary.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\obj\Debug\KolekcjeDictionary.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\obj\Debug\KolekcjeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\obj\Debug\KolekcjeDictionary.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeDictionary\obj\Debug\KolekcjeDictionary.pdb

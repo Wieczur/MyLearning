@@ -15,8 +15,8 @@ namespace NaukaProgramowaniaZmienne2
             var nazwa2 = "Kurs Programowania C#";
 
             var nazwa3 = 5.3;
-            var nnazwa = true;
-            var nazwa = false;
+            var nazwa4 = true;
+            var nazwa5 = false;
 
 
             nazwa1 = 7;

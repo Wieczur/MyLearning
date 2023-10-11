@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\bin\Debug\KolekcjeQueue&Stack.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\bin\Debug\KolekcjeQueue&Stack.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\bin\Debug\KolekcjeQueue&Stack.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\obj\Debug\KolekcjeQueue&Stack.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\obj\Debug\KolekcjeQueue&Stack.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\obj\Debug\KolekcjeQueue&Stack.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\KolekcjeQueue&Stack\obj\Debug\KolekcjeQueue&Stack.pdb
