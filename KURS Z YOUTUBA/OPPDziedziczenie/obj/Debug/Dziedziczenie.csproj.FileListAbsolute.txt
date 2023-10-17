@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
