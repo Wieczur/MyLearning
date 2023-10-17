@@ -31,12 +31,12 @@ namespace Witcher
         /// </param>
         public void PrintInitialStats(int healthPointWitcher, int damageWitcher, int cricitalChanceWitcher, int healthPointDrown, int damageDrown, int cricitalChanceDrown)
         {
-            Console.WriteLine("InitialStats");
+            Console.WriteLine("Initial Stats");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Witcher = " + "healhPoint: " + healthPointWitcher + " , " + "Damage: " + damageWitcher + " , " + "CricitalStrike: " + cricitalChanceWitcher);
+            Console.WriteLine("Witcher = " + "Life points: " + healthPointWitcher + " , " + "Damage: " + damageWitcher + " , " + "Cricital Strike: " + cricitalChanceWitcher);
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Drown = " + "healPoint: " + healthPointDrown + " , " + "Damage: " + damageDrown + " , " + "CricitalStrike: " + cricitalChanceDrown);
+            Console.WriteLine("Drown = " + "Life points: " + healthPointDrown + " , " + "Damage: " + damageDrown + " , " + "Cricital Strike: " + cricitalChanceDrown);
             Console.ResetColor();
             Console.ReadKey();
         }
@@ -67,10 +67,10 @@ namespace Witcher
         {
             Console.WriteLine("After Round: {0}", roundNumber);
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Witcher = " + "healthPoint: " + healthPointWitcher);
+            Console.WriteLine("Witcher = " + "Life points: " + healthPointWitcher);
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Drown = " + "healthPoint: " + healthPointDrown);
+            Console.WriteLine("Drown = " + "Life points: " + healthPointDrown);
             Console.ResetColor();
             Console.ReadKey();
         }

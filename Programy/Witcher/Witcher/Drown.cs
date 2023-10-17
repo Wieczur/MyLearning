@@ -62,7 +62,7 @@ namespace Witcher
         void DrownDead()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("DrownDead");
+            Console.WriteLine("Drown Dead");
             Console.ForegroundColor = ConsoleColor.Magenta;
         }
         /// <summary>
@@ -89,7 +89,7 @@ namespace Witcher
             if (randomNumber == sampleNumber)
             {
                 damageDrown = cricitalStrikeDamageDrown;
-                Console.WriteLine("CricitalStrike: " + damageDrown);
+                Console.WriteLine("Cricital Strike: " + damageDrown);
             }
             return damageDrown;
         }
@@ -108,7 +108,7 @@ namespace Witcher
         int DealDamageAsADrown(int healthPointWitcherAfterCombat, int damageDrown)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("DrownAttack: " + damageDrown);
+            Console.WriteLine("Drown Attack: " + damageDrown);
             healthPointWitcherAfterCombat = healthPointWitcherAfterCombat - damageDrown;
             Console.ResetColor();
 

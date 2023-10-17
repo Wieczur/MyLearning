@@ -69,7 +69,7 @@ namespace Witcher
         static void WitcherDead()
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("WitcherDead");
+            Console.WriteLine("Witcher Dead");
             Console.ResetColor();
             Console.ReadKey();
         }
@@ -89,10 +89,10 @@ namespace Witcher
         static int WitcherHealHimself(int healPotion, int healthPointWitcherAfterCombat)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("UseHealPotion: " + healPotion);
+            Console.WriteLine("Use heal potion: " + healPotion);
 
             healthPointWitcherAfterCombat = healthPointWitcherAfterCombat + healPotion;
-            Console.WriteLine("Witcher Health After Heal: " + healthPointWitcherAfterCombat);
+            Console.WriteLine("Witcher health after heal: " + healthPointWitcherAfterCombat);
             Console.ResetColor();
             return healthPointWitcherAfterCombat;
         }
@@ -118,7 +118,7 @@ namespace Witcher
             if (randomNumber == sampleNumber)
             {
                 damageWitcher = cricitalStrikeDamageWticher;
-                Console.WriteLine("CricitalStrike: " + damageWitcher);
+                Console.WriteLine("Cricital Strike: " + damageWitcher);
             }
 
             return damageWitcher;
@@ -142,7 +142,7 @@ namespace Witcher
         static int DealDamageAsAWitcher(int damageWitcher, int healthPointDrownAfterCombat, int healthPointDrown)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("WitcherAttack: " + damageWitcher);
+            Console.WriteLine("Witcher Attack: " + damageWitcher);
             healthPointDrownAfterCombat = healthPointDrown - damageWitcher;
             Console.ResetColor();
 
