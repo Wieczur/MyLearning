@@ -1,0 +1,7 @@
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\bin\Debug\Interfejsy.exe.config
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\bin\Debug\Interfejsy.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\bin\Debug\Interfejsy.pdb
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\obj\Debug\Interfejsy.csproj.AssemblyReference.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\obj\Debug\Interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\obj\Debug\Interfejsy.exe
+C:\Users\Michau\Desktop\NAUKA PROGRAMOWANIA\KURS Z YOUTUBA\Interfejsy\obj\Debug\Interfejsy.pdb
